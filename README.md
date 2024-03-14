@@ -1,35 +1,35 @@
-**Простая игра Python - Super Gosse**
+**A simple Python game - Super Gosse**
 
-### Идея игры
+### Game idea
 
-Это простая игра, реализованная с помощью библиотеки Pygame, в которой нужно управлять персонажем, собирать бонусы и уклоняться от вражеских ракет. Собранные бонусы записываются в счетчик. Если попадаешь в ракету конец игры.  
+This is a simple game implemented with the Pygame library, in which you need to control your character, collect bonuses and dodge enemy missiles. The collected bonuses are recorded in a counter. If you hit a missile, the game is over.  
 
-### Инструкции
+### Instructions
 
-1. **Установка:**
-   - Установите Python.
-   - Установите библиотеку Pygame , `pip install pygame` пропишите в терминале.
+1. **Installation:**
+   - Install Python.
+   - Install the Pygame library , `pip install pygame` in the terminal.
    
-2. **Запуск игры:**
-   - Загрузите репозиторий New Game.
-   - Запустите скрипт в Python или в своем IDE файл `game.py`. 
+2. **Launching the game:**
+   - Download the New Game repository.
+   - Run the script in Python or in your IDE file `game.py`. 
    
-3. **Инструкции к игре:**
-   - Управление персонажем клавиши клавиши (UP, DOWN, LEFT, RIGHT).
-   - Собирайте бонусы и уклоняйтесь от ракет.
-   - 1 собранный бонус = 1 очко.
-   - Игра закончится когда вы столкнетесь с врагом.
+3. **Instructions for the game:**
+   - Character control keys keys keys keys (UP, DOWN, LEFT, RIGHT).
+   - Collect power-ups and dodge missiles.
+   - 1 bonus collected = 1 point.
+   - The game will end when you encounter an enemy.
 
-### Библиотекa
+### Library
    - Pygame
 
-### Файлы
-   - game.py - код Иры.
-   - beckground.png - фон.
-   - bonus.png - бонус.
-   - enemy.png - враг.
-   - player.png - персонаж.
-   - folder Goose - анимация для персонажа.
+### Files
+   - game.py - code gri.
+   - beckground.png - background.
+   - bonus.png - bonus.
+   - enemy.png - enemy.
+   - player.png - personage.
+   - folder Goose - character for animation.
 
 
-Успехов в игре! На ваши вопросы и предложения готов ответить. Всегда на связи Vadim.
+Good luck with the game! I am ready to answer your questions and suggestions. Always in touch with Vadim.
