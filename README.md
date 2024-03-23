@@ -1,4 +1,4 @@
-**A simple Python game - Super Gosse**
+## A simple Python game - Super Gosse ##
 
 ### Game idea
 
@@ -32,4 +32,4 @@ This is a simple game implemented with the Pygame library, in which you need to 
    - folder Goose - character for animation.
 
 
-Good luck with the game! I am ready to answer your questions and suggestions. Always in touch with Vadim.
+Good luck with the game! I am ready to answer your questions and suggestions. Always in touch. Vadim.
